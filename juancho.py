@@ -3,9 +3,9 @@ def main(pe):
   if pe == 8:
     print ("exact")
   else:
-    print ("casi")
+    print ("uyy")
 
-main(5)
+main(4)
 
 
 
