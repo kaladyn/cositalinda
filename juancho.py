@@ -5,7 +5,7 @@ def main(p):
   else:
     print ("por los pelos")
 
-main(5)
+main(4)
 
 
 
