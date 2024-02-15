@@ -1,2 +1,2 @@
 # cositalinda
-es un proyecto para dar mimitos
+es un proyecto para dar mimitos, abrasitos tiernos
